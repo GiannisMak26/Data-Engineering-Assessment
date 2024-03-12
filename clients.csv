@@ -1,0 +1,6 @@
+id,profile,address,corporate_information,email,telephone,client_since,nationality,has_loan,next_payment_date
+1,Individual,123 Main St, ,john@example.com,555-1234,15/01/2020,USA,FALSE,
+2,Company,456 Oak Ave,Fin Tech,susan@company.com,555-5678,20/05/2018,USA,TRUE,10/03/2024
+3,Individual,789 Elm St, ,david@example.com,555-9012,08/11/2019,Canada,FALSE,
+4,Company,321 Pine St,Insurance,info@insuranceco.com,555-3456,03/07/2022,UK,FALSE,
+5,Company,567 Maple St,Tech Company,info@techco.com,555-7890,15/09/2023,Germany,TRUE,05/04/2024
