@@ -17,6 +17,12 @@ This project consists of specific files to address the pipeline requirements. To
 
 3. **collaterals.csv**: Contains information regarding the assets owned by the clients. It includes "id" of the client, "type" of the asset, "asset_name", and "value_current" (correlating to its stock value).
 
+Besides those files needed for the execution of the code, this project also has the following additional files:
+
+1. **Architecture_diagram.jpg**: A visual representation of the project's goal along with the software components, their relationships, and system interactions.
+2. **Description.pptx**: A PowerPoint presentation detailing the steps followed, for the project's completion.
+3. **Technical_specifications.pdf**: File containing the background research and documentation for the technologies required from this project.
+
 ## Implementation
 
 ### Prerequisites
